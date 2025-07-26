@@ -1,0 +1,52 @@
+{
+  "title-1": "Speichere deine\nMahlzeiten\nund Zutaten.",
+  "title-2": "Nutze unsere App –\ndie beste Wahl.",
+  "title-3": "Unsere App –\ndeine beste Entscheidung.",
+
+  "description-1": "Füge deine Mahlzeiten und Zutaten hinzu,\nwir speichern sie für dich.",
+  "description-2": "Die beste Wahl für deine Küche,\nzweifle nicht.",
+  "description-3": "Die besten Restaurants und ihre\nTop-Menüs warten auf dich.",
+
+  "Next": "Weiter",
+  "skip": "Überspringen",
+
+  "msg-1": "Alle Mahlzeiten löschen.",
+  "msg-2": "Bist du sicher, dass du alle Mahlzeiten löschen möchtest?",
+  "msg-3": "Alle Mahlzeiten wurden erfolgreich gelöscht.",
+  "msg-4": "Bist du sicher, dass du \"$name\" löschen möchtest?",
+  "yes": "Löschen",
+  "no": "Abbrechen",
+  "done": "Erfolgreich gelöscht",
+
+  "title": "Willkommen\nFüge ein neues\nRezept hinzu",
+  "Your Food": "Dein Essen",
+
+  "language_button": "Sprachbutton",
+  "changeLanguage": "Sprache ändern",
+
+  "delete_button": "Löschbutton",
+  "deleteAllMeals": "Alle Mahlzeiten löschen",
+
+  "add_button": "Hinzufügen-Button",
+  "addNew": "Neue Mahlzeit hinzufügen",
+
+  "title-0": "Mahlzeit hinzufügen",
+
+  "meal_name": "Name der Mahlzeit",
+  "error-1": "Bitte gib den Namen der Mahlzeit ein",
+
+  "img_url": "Bild-URL",
+  "error-2": "Bitte gib eine Bild-URL ein",
+
+  "time": "Zeit",
+  "error-3": "Bitte gib die Zeit ein",
+  "error-4": "Bitte gültige Zeit eingeben (z. B. 14:30)",
+
+  "Rate": "Bewertung",
+  "error-5": "Bitte gib eine gültige Bewertung ein",
+  "error-6": "Bewertung muss zwischen 0 und 10 liegen",
+
+  "Description": "Beschreibung",
+  "error-7": "Bitte gib eine Beschreibung ein",
+  "error-8": "Beschreibung muss mindestens 10 Zeichen lang sein"
+}

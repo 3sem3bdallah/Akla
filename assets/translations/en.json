@@ -1,0 +1,52 @@
+{
+    "title-1": "Save Your \nMeals \nIngredient.",
+    "title-2": "Use Our App \nThe Best \nChoice.",
+    "title-3": "Our App Your \nUltimate Choice.",
+
+    "description-1": "Add Your Meals and its Ingredients \nand we will save it for you.",
+    "description-2": "the best choice for your \nkitchen do not hesitate.",
+    "description-3": "All the best restaurants and their \ntop menus are ready for you.",
+    
+    "Next": "Next",
+    "skip": "Skip",
+
+    "msg-1": "Delete All Meals.",
+    "msg-2": "Are you sure you want to delete all meals?",
+    "msg-3":"All meals deleted successfully.",
+    "msg-4": "Are you sure you want to delete \"$name\"?",
+    "yes": "Delete",
+    "no": "Cancel",
+    "done": "deleted successfully",
+
+    "title" : "Welcome\nAdd A New\nRecipe",
+    "Your Food":"Your Food",
+
+    "language_button":"language_button",
+    "changeLanguage": "Change Language",
+
+    "delete_button": "delete_button",
+    "deleteAllMeals": "Delete All Meals",
+
+    "add_button": "Add Buttonl",
+    "addNew": "Add New Meal",
+
+    "title-0":"Add Meal",
+
+    "meal_name":"Meal name",
+    "error-1":"Please enter meal name",
+    
+    "img_url":"Image URL",
+    "error-2":"Please enter an image URL",
+    
+    "time":"Time",
+    "error-3":"Please enter time'",
+    "error-4":"Enter valid time (e.g., 14:30)",
+    
+    "Rate":"Rate",
+    "error-5":"Please enter a valid rate",
+    "error-6":"Rate must be between 0 and 10",
+
+    "Description":"Description",
+    "error-7":"Please enter description",
+    "error-8":"Description must be at least 10 characters"
+}
