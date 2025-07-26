@@ -6,7 +6,7 @@ Akla is a modern Flutter recipe app with a clean UI, smooth animations, and offl
 
 ## 🧪 Try the App
 
-### 📱 [Download APK directly from Google Drive](https://drive.google.com/file/d/1VWvSgj3zvVna9YMRe9-PtDwodYsSBO8j/view?usp=drivesdk)
+### 📱 [Download APK directly from Google Drive](https://drive.google.com/file/d/1mdg_7_uDqsjSo6JSAez5qQC_YLAzk6Ug/view?usp=drive_link)
 
 ### 📷 Or scan the QR code below to see all my APKs:
 
