@@ -13,6 +13,12 @@ Akla is a modern Flutter recipe app with a clean UI, smooth animations, and offl
 ![Scan Image](assets/img/scanned_image.png)
 
 ---
+
+## 🎨 App Design
+
+You can check out the app design on Canva here:  
+👉 [Akla UI Design](https://www.canva.com/design/DAGuMiIuGmc/SL7NtmehmavZgh_bDr2ozw/edit?utm_content=DAGuMiIuGmc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 
 ## ✨ Features
